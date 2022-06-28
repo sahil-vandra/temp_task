@@ -7,6 +7,7 @@ dataDic = {
         "LFTagKey": "module",
         "LFTagValues": ['transformed']
     },
+    
     f"invh_sdlf_{ENV}_{PIPELINE_NAME}_transformed_db": {
         "LFTagKey": "module",
         "LFTagValues": ['curated']
