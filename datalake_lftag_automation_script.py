@@ -4,7 +4,6 @@ AWS_REGION = "us-east-1"
 TAG_KEY = "a1"
 TAG_VAL = ['a1', 'a2', 'a3']
 
-
 def createLFTags(client):
     print('create :::')
     try:
