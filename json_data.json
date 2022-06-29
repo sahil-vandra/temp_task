@@ -1,0 +1,10 @@
+{
+    "invh_sdlf_{}_{}_curated_db": {
+        "LFTagKey": "module",
+        "LFTagValues": ["transformed"]
+    },
+    "invh_sdlf_{}_{}_transformed_db": {
+        "LFTagKey": "module",
+        "LFTagValues": ["curated","transformed"]
+    }
+}
